@@ -70,7 +70,7 @@ export default function Hero() {
           <div className="relative w-full max-w-md aspect-square rounded-3xl overflow-hidden glass p-2 group">
             <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
             <img 
-              src="/src/assets/images/dhruv_profile_1779091535047.png" 
+              src="/src/assets/images/dhruv_profile_photo_1779091875321.png" 
               alt="Dhruv Patil" 
               className="w-full h-full object-cover rounded-2xl"
               referrerPolicy="no-referrer"

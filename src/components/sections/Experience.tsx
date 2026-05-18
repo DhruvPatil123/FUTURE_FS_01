@@ -32,21 +32,21 @@ const achievements = [
     issuer: "L&T EduTech",
     description: "Completed the Course pathway covering 5 courses and 27 learning hours.",
     icon: Award,
-    image: "/src/assets/images/lt_flask_cert_1779091476476.png"
+    image: "/src/assets/images/lt_flask_cert_1779091894248.png"
   },
   {
     title: "Gen AI & Deep Learning Virtual Internship",
     issuer: "EduSkills / AICTE",
     description: "Successfully completed a 10-week virtual internship in Generative AI, Deep Learning & Language Models (Jan-March 2026).",
     icon: Award,
-    image: "/src/assets/images/eduskills_ai_cert_1779091498212.png"
+    image: "/src/assets/images/eduskills_ai_cert_image_1779091911507.png"
   },
   {
     title: "Elite NPTEL Certification",
     issuer: "IIT Kanpur",
     description: "Earned Elite status in 'Enhancing Soft Skills and Personality' with a consolidated score of 66% (Feb-Apr 2026).",
     icon: Award,
-    image: "/src/assets/images/nptel_softskills_cert_1779091454279.png"
+    image: "/src/assets/images/nptel_elite_cert_image_1779091927833.png"
   }
 ];
 

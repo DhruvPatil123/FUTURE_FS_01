@@ -12,7 +12,7 @@ const isProd = process.env.NODE_ENV === "production";
 // Resume data for Gemini to reference
 const RESUME_DATA = {
   name: "Dhruv Dinesh Patil",
-  profile_img: "/src/assets/images/dhruv_profile_1779091535047.png",
+  profile_img: "/src/assets/images/dhruv_profile_photo_1779091875321.png",
   role: "B.Tech AI Student & Full Stack Developer",
   summary: "3rd-year B.Tech Artificial Intelligence student based in Nagpur, India. Passionate about building intelligent systems using RAG, Agentic AI, and Full Stack technologies. Experienced in cybersecurity, cryptography, and modern web frameworks.",
   skills: {
@@ -62,19 +62,19 @@ const RESUME_DATA = {
       title: "Full-Stack Flask Development Mastery",
       issuer: "L&T EduTech",
       details: "Path-way completion covering 5 courses and 27 learning hours.",
-      image: "/src/assets/images/lt_flask_cert_1779091476476.png"
+      image: "/src/assets/images/lt_flask_cert_1779091894248.png"
     },
     {
       title: "Generative AI, Deep Learning & LLMs Virtual Internship",
       issuer: "EduSkills / AICTE",
       details: "10-week intensive internship (Jan-March 2026) with Grade A.",
-      image: "/src/assets/images/eduskills_ai_cert_1779091498212.png"
+      image: "/src/assets/images/eduskills_ai_cert_image_1779091911507.png"
     },
     {
       title: "Elite NPTEL Certification",
       issuer: "IIT Kanpur",
       details: "66% score in Enhancing Soft Skills and Personality (Feb-Apr 2026).",
-      image: "/src/assets/images/nptel_softskills_cert_1779091454279.png"
+      image: "/src/assets/images/nptel_elite_cert_image_1779091927833.png"
     }
   ],
   projects: [
