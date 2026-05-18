@@ -1,0 +1,8 @@
+{
+  "name": "Professional Developer Portfolio",
+  "description": "A high-end, responsive portfolio website featuring a project showcase, interactive resume, and an integrated AI assistant to answer questions about my background and skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
