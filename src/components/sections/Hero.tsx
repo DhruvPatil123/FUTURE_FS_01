@@ -1,5 +1,6 @@
-import { motion } from "motion/react";
-import { Github, Linkedin, Mail, Twitter } from "lucide-react";
+import { motion, AnimatePresence } from "motion/react";
+import { useState } from "react";
+import { Github, Linkedin, Mail, Twitter, X } from "lucide-react";
 
 export default function Hero() {
   return (
@@ -69,10 +70,13 @@ export default function Hero() {
           <div className="relative w-full max-w-md aspect-square rounded-3xl overflow-hidden glass p-2 group">
             <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
             <img 
-              src="/src/assets/images/dhruv_profile_1779089106963.png" 
+              src="/src/assets/images/dhruv_profile_1779091535047.png" 
               alt="Dhruv Patil" 
               className="w-full h-full object-cover rounded-2xl"
               referrerPolicy="no-referrer"
+              onError={(e) => {
+                (e.target as HTMLImageElement).src = 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800';
+              }}
             />
             {/* Overlay Badges */}
             <div className="absolute top-6 left-6 glass px-4 py-2 rounded-lg text-sm font-medium">

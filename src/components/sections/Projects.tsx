@@ -31,16 +31,16 @@ const projects = [
     description: "Specialized system designed to identify and flag factual inconsistencies in Large Language Model outputs.",
     tech: ["TypeScript", "Tailwind", "Supabase", "PL/SQL"],
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
-    link: "#",
-    github: "#"
+    link: "https://github.com/DhruvPatil123",
+    github: "https://github.com/DhruvPatil123"
   },
   {
     title: "Jarvis Desktop AI",
     description: "A Python-powered personal desktop assistant featuring voice recognition and automated productivity tools.",
     tech: ["Python", "Node.js", "HTML", "JS"],
     image: "https://images.unsplash.com/photo-1589254065878-42c9da997008?auto=format&fit=crop&q=80&w=800",
-    link: "#",
-    github: "#"
+    link: "https://github.com/DhruvPatil123",
+    github: "https://github.com/DhruvPatil123"
   }
 ];
 
